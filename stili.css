@@ -1,0 +1,153 @@
+* {margin: 0;
+   padding: 0;}
+body
+{background-image:url('Fons/fons.jpg');
+background-size:cover;
+background-attachment:fixed;}
+
+div#container 
+{width: 900px;              
+margin: 0 auto;
+margin-top:30px;}
+
+div#top 
+{width: 100%;
+height: 100px;}
+
+div#menu 
+{width: 100%;
+height: 40px;
+border-top:3px blue;
+border-bottom:3px blue;}
+
+div#text
+{width: 100%;}
+
+#transbox
+{width: 100%;
+background-color:black;
+filter:alpha;
+opacity:0.95;}
+
+#transbox2
+{width: 100%;
+height: 40px;
+background-color:black;
+filter:alpha;
+opacity:0.7;}
+
+#transbox3
+{width: 100%;
+background-color:black;
+filter:alpha;
+opacity:0.95;}
+
+div#footer 
+{width: 100%;
+height: 20px;}
+
+h
+{font-family:Baskerville Old Face;
+font-size:30px;
+font-weight:bold;
+color:#0066ff;
+display:block;
+padding:15px;}
+
+h1
+{font-family:Baskerville Old Face;
+font-size:25px;
+font-weight:bold;
+color:#3399ff;
+display:block;
+padding:15px;}
+h4
+{font-family:Baskerville Old Face;
+text-align:justify;
+text-indent:1cm;
+padding:20px;
+font-weight:normal;}
+
+p
+{color:white;
+font-family:Calibri;
+text-align:justify;
+text-indent:1cm;
+padding:20px;}
+
+#menu table
+{height:40px;
+margin: 0 auto;
+width:750px;}
+
+#menu td a
+{font-family: Coruier New;
+font-size:20px;
+font-weight:bold;
+padding:8px 20px;
+text-decoration:none;
+color:#bfbfbf;
+height:40px;}
+
+#menu td a:hover
+{font-family: Coruier New;
+font-size:20px;
+font-weight:bold;
+padding:8px 20px;
+background-color:#a6a6a6;
+filter:alpha;
+opacity:0.8;
+height:40px;
+color:#000000;}
+
+#text table
+{border-collapse: seperate;
+border-spacing:10px;
+padding-top:50px;
+margin:auto;
+width:700px;
+margin-bottom:15px;}
+
+#text td 
+{text-align:justify;
+text-indent:0.5cm;
+padding:10px;
+color:black;
+font-family:Calibri;
+font-weight:bold;
+background-color:#b3b3b3;}
+
+#text th
+{background-color:#003399;
+font-weight:bold;
+border-top-right-radius:10px;}
+
+#mainTitle
+{font-family:Engravers MT;
+font-size:80px;
+font-weight:bold;
+color:#33bbff;
+padding:20px;
+text-shadow:3px 3px 3px black;}
+
+ul
+{list-style-type: square;
+list-style-position:inside;
+padding:15px;}
+
+li
+{font-family:Calibri;
+color:#f2f2f2;}
+
+li.a
+{font-family:Calibri;
+color:#f2f2f2;}
+
+img{border:2px grey;margin-left:15px;margin-bottom:15px;}
+
+
+div.img
+{padding:10px 10px;
+text-align:center;
+background-color:grey;}
+
